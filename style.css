@@ -1,0 +1,27 @@
+.TitleOfPage {
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+  text-align: center;
+}
+.bottomStuff{
+  background-color: lightgoldenrodyellow;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-top: 10px;
+}
+.works p{
+  padding-top: 5px;
+}
+
+.information {
+  margin-top: 15vh;
+}
+
+.greyBkgd {
+  background-color: grey;
+}
+
+.pageFont {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+  color: navy;
+}
