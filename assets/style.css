@@ -25,3 +25,10 @@
   font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
   color: navy;
 }
+
+.img-format{
+  width: 200px;
+  height: auto;
+  filter: blur(10px);
+  filter: grayscale(50%);
+}
